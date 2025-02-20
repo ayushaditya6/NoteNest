@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Creak the coding interview",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Book",
+    "image": "./image/61mIq2iJUXL._AC_UF1000,1000_QL80_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Creakw the coding interview",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Book",
+    "image": "./image/61mIq2iJUXL._AC_UF1000,1000_QL80_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pocket Notebooks",
+    "price": 75.00,
+    "description": "Pocket notebooks are ideal for taking notes on the move because they are compact and don't take up much space in your backpack or pocket. We should always have a notepad to scribble down ideas as they strike; we never know when that will be.",
+    "category": "NoteBook",
+    "image": "./image/61mIq2iJUXL._AC_UF1000,1000_QL80_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pocket Notebooks",
+    "price": 75.00,
+    "description": "Pocket notebooks are ideal for taking notes on the move because they are compact and don't take up much space in your backpack or pocket. We should always have a notepad to scribble down ideas as they strike; we never know when that will be.",
+    "category": "Pocket Notebook",
+    "image": "./image/61mIq2iJUXL.AC_UF1000,1000_QL80.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+}
+},{
+  "id": 5,
+  "title": "Pentonic Pen",
+  "price": 20.00,
+  "description": "The Pentonic pen is a high-quality writing instrument known for its smooth ink flow and ergonomic design. It offers a comfortable grip and precise writing, perfect for everyday use.",
+  "category": "Pen",
+  "image": "./image/61mIq2iJUXL.AC_UF1000,1000_QL80.jpg",
+  "rating": {
+    "rate": 4.1,
+    "count":120
+}
+},
+{
+  "id": 6,
+  "title": "Classmate Project Paper Ruled/Unruled/Blank",
+  "price": 60.00,
+  "description": "Classmate Project Paper is a premium quality paper designed for academic and professional projects. It offers a smooth texture, high durability, and is ideal for writing, printing, and presentations.",
+  "category": "Pen",
+  "image": "./image/61mIq2iJUXL.AC_UF1000,1000_QL80.jpg",
+  "rating": {
+    "rate": 4.1,
+    "count":120
+}
+}
+]

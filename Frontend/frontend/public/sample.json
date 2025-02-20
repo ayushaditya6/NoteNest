@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "title": "Data Structures and Algorithms",
+      "price": 509.95,
+      "description": "The book comes with actual outputs of Programs which will help the students for easy grasping of the Subject. The very lucid language of the Book will help Students to understand the subject even better. This is also a good buy for the Professors teaching the subject for the first time.",
+      "category": "Book",
+      "image": "./images/dsa.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Modern C++ for Absolute Beginners",
+      "price": 209.95,
+      "description": "The book comes with actual outputs of Programs which will help the students for easy grasping of the Subject. The very lucid language of the Book will help Students to understand the subject even better.",
+      "category": "Book",
+      "image": "./images/c++.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 120
+      }
+    },
+    {
+      "id": 3,
+      "title": "Pocket Notebooks",
+      "price": 75.00,
+      "description": "Pocket notebooks are ideal for taking notes on the move because they are compact and don't take up much space in your backpack or pocket. We should always have a notepad to scribble down ideas as they strike; we never know when that will be.",
+      "category": "NoteBook",
+      "image": "./images/pocket_notebook.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "title": "Spiral Notebook",
+      "price": 75.00,
+      "description": "The most popular type of paper notepad is the spiral notebook. Most users are students, and for a good reason. Cost-effectiveness is a major selling point. Sizes vary but typically have between 70 and 200 pages. The pages are frequently perforated, the books are wire bound, and three-hole punched.",
+      "category": "Notebook",
+      "image": "./images/spiral_notebook.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+  }
+  },
+  {
+    "id": 5,
+    "title": "Subject Notebooks",
+    "price": 65.50,
+    "description": "A subject notebook is a type of notebook that is common in most workplaces and classrooms as well as in the bags of most students. They are used in various academic and creative contexts, including jotting notes in meetings, drafting original works of art, and completing schoolwork.",
+    "category": "Notebook",
+    "image": "./images/subject_notebook.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 6,
+    "title": "Pentonic Pen",
+    "price": 20.00,
+    "description": "The Pentonic pen is a high-quality writing instrument known for its smooth ink flow and ergonomic design. It offers a comfortable grip and precise writing, perfect for everyday use.",
+    "category": "Pen",
+    "image": "./images/pentonic.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  },
+  {
+    "id": 7,
+    "title": "Apsara Pencil",
+    "price": 40.00,
+    "description": "A pencil is a writing instrument that uses a solid pigment core encased in wood, metal, or plastic. It allows for precise, erasable marks, making it ideal for drawing and writing.",
+    "category": "Pencil",
+    "image": "./images/apsara.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  },
+  {
+    "id": 8,
+    "title": "Doms Pencil",
+    "price": 30.00,
+    "description": "A pencil is a writing instrument that uses a solid pigment core encased in wood, metal, or plastic. It allows for precise, erasable marks, making it ideal for drawing and writing.",
+    "category": "Pencil",
+    "image": "./images/doms.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  },
+  {
+    "id": 9,
+    "title": "Classmate Pencil",
+    "price": 45.00,
+    "description": "A pencil is a writing instrument that uses a solid pigment core encased in wood, metal, or plastic. It allows for precise, erasable marks, making it ideal for drawing and writing.",
+    "category": "Pencil",
+    "image": "./images/classmate_pencil.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  },
+  {
+    "id": 10,
+    "title": "Classmate Project Paper Ruled",
+    "price": 60.00,
+    "description": "Classmate Project Paper is a premium quality paper designed for academic and professional projects. It offers a smooth texture, high durability, and is ideal for writing, printing, and presentations.",
+    "category": "Projects",
+    "image": "./images/ruled.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  },
+  {
+    "id": 11,
+    "title": "Classmate Project Paper oneside ruled",
+    "price": 60.00,
+    "description": "Classmate Project Paper is a premium quality paper designed for academic and professional projects. It offers a smooth texture, high durability, and is ideal for writing, printing, and presentations.",
+    "category": "Projects",
+    "image": "./images/one_side_rule.jpeg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  },
+  {
+    "id": 12,
+    "title": "Classmate Project Paper Unruled",
+    "price": 60.00,
+    "description": "Classmate Project Paper is a premium quality paper designed for academic and professional projects. It offers a smooth texture, high durability, and is ideal for writing, printing, and presentations.",
+    "category": "Projects",
+    "image": "./images/unruled.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count":120
+  }
+  }
+  ]
+  
