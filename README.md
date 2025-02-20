@@ -145,5 +145,5 @@ This project is licensed under the MIT License.
 ## 🌟 Acknowledgements
 Thanks to Aditya Enterprises for the opportunity to build this platform.
 Inspired by the need to automate and improve the stationery business in the local area.
-Made with ❤️by Akash Shankar(https://akashdevweb.netlify.app/).
+Made with ❤️by Ayush Aditya.
 
